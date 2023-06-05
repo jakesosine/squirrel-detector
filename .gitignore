@@ -1,0 +1,8 @@
+models/
+*.DS_Store
+*.jpg
+json/test.ipynb
+*.mp4
+*.avi
+*.csv
+*.pkl
